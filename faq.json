@@ -1,0 +1,44 @@
+{
+    "perguntas_respostas": [
+        {
+            "pergunta": "Quais são as opções de pagamento disponíveis?",
+            "resposta": "Aceitamos cartões de crédito, débito e também oferecemos a opção de pagamento via boleto bancário."
+        },
+        {
+            "pergunta": "Como posso acompanhar o status do meu pedido?",
+            "resposta": "Você pode acompanhar o status do seu pedido fazendo login na sua conta no nosso site e acessando a seção 'Meus Pedidos'. Lá, você encontrará as informações mais recentes sobre o seu pedido."
+        },
+        {
+            "pergunta": "Qual é a política de devolução?",
+            "resposta": "Nossa política de devolução permite que você devolva produtos não utilizados e não danificados dentro de 30 dias após a compra. Consulte nossa página de 'Política de Devolução' para obter mais detalhes e instruções."
+        },
+        {
+            "pergunta": "Como escolher o tamanho correto para minhas roupas?",
+            "resposta": "Recomendamos que você consulte nossa tabela de tamanhos, disponível na página do produto. Ela oferece orientações específicas para cada item, garantindo que você escolha o tamanho correto para o seu corpo."
+        },
+        {
+            "pergunta": "Posso alterar meu endereço de entrega após realizar o pedido?",
+            "resposta": "Infelizmente, não podemos alterar o endereço de entrega após o pedido ter sido confirmado. Certifique-se de revisar cuidadosamente as informações antes de finalizar a compra."
+        },
+        {
+            "pergunta": "Como posso entrar em contato com o suporte ao cliente?",
+            "resposta": "Você pode entrar em contato com nosso suporte ao cliente ligando para o número X, enviando um e-mail para suporte@exemplo.com ou usando o formulário de contato em nossa página 'Fale Conosco'. Estamos aqui para ajudar!"
+        },
+        {
+            "pergunta": "Quais são as opções de frete disponíveis?",
+            "resposta": "Oferecemos opções de frete padrão e expresso. Os custos e tempos de entrega variam de acordo com a sua localização. Você pode visualizar as opções disponíveis durante o processo de checkout."
+        },
+        {
+            "pergunta": "Como posso rastrear meu pacote?",
+            "resposta": "Assim que o seu pedido for despachado, você receberá um e-mail de confirmação com um número de rastreamento. Utilize esse número em nossa página de rastreamento para acompanhar a localização do seu pacote."
+        },
+        {
+            "pergunta": "Vocês oferecem descontos para compras em grande quantidade?",
+            "resposta": "Sim, oferecemos descontos para compras em grande quantidade. Entre em contato com nossa equipe de vendas corporativas para discutir suas necessidades e obter informações sobre preços especiais."
+        },
+        {
+            "pergunta": "Posso cancelar meu pedido após a confirmação?",
+            "resposta": "Infelizmente, não podemos cancelar pedidos após a confirmação. Recomendamos revisar cuidadosamente seus itens antes de finalizar a compra. Se precisar de assistência, entre em contato com nosso suporte ao cliente."
+        }
+    ]
+}

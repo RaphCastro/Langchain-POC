@@ -1,0 +1,140 @@
+{
+    "produtos": [
+      {
+        "nome": "Camiseta Casual",
+        "preco": 39.99,
+        "categoria": "Camisetas",
+        "descricao": "Camiseta confortável para uso diário.",
+        "publico-alvo": "Adulto",
+        "combinacoes-recomendadas": ["Calça jeans", "Tênis branco"]
+      },
+      {
+        "nome": "Vestido Elegante",
+        "preco": 89.99,
+        "categoria": "Vestidos",
+        "descricao": "Vestido elegante para ocasiões especiais.",
+        "publico-alvo": "Feminino",
+        "combinacoes-recomendadas": ["Sapato de salto", "Bolsa de festa"]
+      },
+      {
+        "nome": "Moletom Confortável",
+        "preco": 59.99,
+        "categoria": "Moletom",
+        "descricao": "Moletom quente e confortável para dias frios.",
+        "publico-alvo": "Unissex",
+        "combinacoes-recomendadas": ["Calça de moletom", "Tênis"]
+      },
+      {
+        "nome": "Blusa Esportiva",
+        "preco": 29.99,
+        "categoria": "Roupas Esportivas",
+        "descricao": "Blusa leve para práticas esportivas.",
+        "publico-alvo": "Adulto",
+        "combinacoes-recomendadas": ["Legging esportiva", "Tênis de corrida"]
+      },
+      {
+        "nome": "Jaqueta de Couro",
+        "preco": 129.99,
+        "categoria": "Jaquetas",
+        "descricao": "Jaqueta de couro estilosa para looks urbanos.",
+        "publico-alvo": "Adulto",
+        "combinacoes-recomendadas": ["Calça jeans", "Botas de couro"]
+      },
+      {
+        "nome": "Shorts de Verão",
+        "preco": 34.99,
+        "categoria": "Shorts",
+        "descricao": "Shorts confortável para dias quentes.",
+        "publico-alvo": "Feminino",
+        "combinacoes-recomendadas": ["Blusa regata", "Sandálias"]
+      },
+      {
+        "nome": "Camisa Social",
+        "preco": 79.99,
+        "categoria": "Camisas",
+        "descricao": "Camisa social elegante para eventos formais.",
+        "publico-alvo": "Masculino",
+        "combinacoes-recomendadas": ["Calça social", "Sapato social"]
+      },
+      {
+        "nome": "Legging Estampada",
+        "preco": 49.99,
+        "categoria": "Leggings",
+        "descricao": "Legging confortável com estampa moderna.",
+        "publico-alvo": "Feminino",
+        "combinacoes-recomendadas": ["Camiseta fitness", "Tênis de academia"]
+      },
+      {
+        "nome": "Polo Clássica",
+        "preco": 44.99,
+        "categoria": "Polos",
+        "descricao": "Polo clássica para um visual casual.",
+        "publico-alvo": "Unissex",
+        "combinacoes-recomendadas": ["Bermuda jeans", "Sapatênis"]
+      },
+      {
+        "nome": "Saia Midi",
+        "preco": 54.99,
+        "categoria": "Saias",
+        "descricao": "Saia midi elegante para diversas ocasiões.",
+        "publico-alvo": "Feminino",
+        "combinacoes-recomendadas": ["Blusa de seda", "Salto alto"]
+      },
+      {
+        "nome": "Casaco de Inverno",
+        "preco": 109.99,
+        "categoria": "Casacos",
+        "descricao": "Casaco quente e estiloso para o inverno.",
+        "publico-alvo": "Unissex",
+        "combinacoes-recomendadas": ["Calça de lã", "Botas de neve"]
+      },
+      {
+        "nome": "Calça Jeans Skinny",
+        "preco": 69.99,
+        "categoria": "Calças",
+        "descricao": "Calça jeans skinny para um visual moderno.",
+        "publico-alvo": "Unissex",
+        "combinacoes-recomendadas": ["Camiseta básica", "Tênis casual"]
+      },
+      {
+        "nome": "Regata Fitness",
+        "preco": 24.99,
+        "categoria": "Roupas Esportivas",
+        "descricao": "Regata leve para atividades físicas.",
+        "publico-alvo": "Adulto",
+        "combinacoes-recomendadas": ["Legging esportiva", "Tênis de corrida"]
+      },
+      {
+        "nome": "Blazer Moderno",
+        "preco": 89.99,
+        "categoria": "Blazers",
+        "descricao": "Blazer moderno para um visual sofisticado.",
+        "publico-alvo": "Unissex",
+        "combinacoes-recomendadas": ["Calça social", "Sapato de couro"]
+      },
+      {
+        "nome": "Macacão Casual",
+        "preco": 79.99,
+        "categoria": "Macacões",
+        "descricao": "Macacão casual para um look despojado.",
+        "publico-alvo": "Feminino",
+        "combinacoes-recomendadas": ["Tênis branco", "Bolsa tiracolo"]
+      },
+      {
+        "nome": "Suéter Listrado",
+        "preco": 49.99,
+        "categoria": "Suéteres",
+        "descricao": "Suéter com listras para um toque de estilo.",
+        "publico-alvo": "Unissex",
+        "combinacoes-recomendadas": ["Calça chino", "Sapato casual"]
+      },
+      {
+        "nome": "Camisa Jeans",
+        "preco": 59.99,
+        "categoria": "Camisas",
+        "descricao": "Camisa jeans versátil para diversas ocasiões.",
+        "publico-alvo": "Unissex",
+        "combinacoes-recomendadas": ["Calça de sarja", "Bota de couro"]
+      }
+    ]
+}
